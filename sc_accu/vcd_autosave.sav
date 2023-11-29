@@ -1,4 +1,0 @@
-SystemC.clk
-SystemC.RESET
-SystemC.DATA_IN[7:0]
-SystemC.DATA_SUM[7:0]
